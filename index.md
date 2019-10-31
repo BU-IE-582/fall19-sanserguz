@@ -2,7 +2,7 @@
 
 ## IE 582 <3
 
-Homework 1
+# Homework 1
 
   [Problem Description](IE582_Fall2019_Homework1.pdf) for the first Homework.
 
