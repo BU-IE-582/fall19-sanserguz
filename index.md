@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page where moon is made of blue cheese
 
-You can use the [editor on GitHub](https://github.com/BU-IE-582/fall19-sanserguz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## IE 582 <3
 
+Homework 1
 
-IE582-HW1-sanserguz.html
-
-[Here](IE582-HW1-sanserguz.html) is my first Homework.
+[Problem Description](IE582_Fall2019_Homework1.pdf) for the first Homework.
+[Here](IE582-HW1-sanserguz.html) is my html file.
+[Here](IE582-HW1-sanserguz.R) is my R file.
