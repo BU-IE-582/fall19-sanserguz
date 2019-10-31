@@ -5,4 +5,4 @@ You can use the [editor on GitHub](https://github.com/BU-IE-582/fall19-sanserguz
 
 IE582-HW1-sanserguz.html
 
-[Here](IE582-HW1-sanserguz.html) is our Project Part 1.
+[Here](IE582-HW1-sanserguz.html) is my first Homework.
