@@ -12,3 +12,11 @@
   [Here](IE582-HW1-sanserguz.html) is my html file.
 
   [Here](IE582-HW1-sanserguz.R) is my R file.
+
+# Homework 2
+
+  [Problem Description](IE582_Fall2019_Homework2.pdf) for the second Homework.
+
+  [Here](IE582-HW2-sanserguz.html) is my html file.
+
+  [Here](IE582-HW2-sanserguz.R) is my R file.
