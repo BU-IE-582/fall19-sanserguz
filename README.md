@@ -1,5 +1,5 @@
-# fall19-sanserguz
-fall19-sanserguz created by GitHub Classroom
+# My IE 582 Progress Journal
+Şanser Güz
 
 Hello World
 
