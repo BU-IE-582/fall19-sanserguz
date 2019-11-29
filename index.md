@@ -29,7 +29,7 @@
 
 # Homework 3
 
-  [Problem Description](IE582_Fall2019_Homework3.pdf) for the second Homework.
+  [Problem Description](IE582_Fall2019_Homework3.pdf) for the third Homework.
 
   [Here](IE582-HW3-sanserguz.html) is my html file.
 
