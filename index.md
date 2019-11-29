@@ -3,7 +3,7 @@
 ## 僕のウェブサイトへようこそ！ここで月はブルーチーズから作られたらしい。
 
 
-# IE 582 <3
+# IE 582
 
 # Homework 1
 
@@ -20,3 +20,11 @@
   [Here](IE582-HW2-sanserguz.html) is my html file.
 
   [Here](IE582-HW2-sanserguz.R) is my R file.
+
+# Homework 3
+
+  [Problem Description](IE582_Fall2019_Homework3.pdf) for the second Homework.
+
+  [Here](IE582-HW3-sanserguz.html) is my html file.
+
+  [Here](IE582-HW3-sanserguz.R) is my R file.
