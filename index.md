@@ -3,7 +3,7 @@
 ## 僕のウェブサイトへようこそ！
 ## ここで月はブルーチーズから作られたらしい。
 
-
+Below, you can find my approaches for the assignments and term project for IE 582 Statistical Learning For Data Mining course which I took from M. G. Baydoğan in the fall of 2019. 
 
 # Homework 1
 
