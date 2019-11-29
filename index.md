@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Page where the moon is made of blue cheese
 
-## 僕のウェブサイトへようこそ！ここで月はブルーチーズから作られたらしい。
+## 僕のウェブサイトへようこそ！
+## ここで月はブルーチーズから作られたらしい。
 
 
 
