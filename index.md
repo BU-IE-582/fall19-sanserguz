@@ -36,3 +36,11 @@
   [Here](IE582-HW3-sanserguz.R) is my R file.
 
 * * *
+
+# Project
+
+  [Description](ProjectSubmission/IE 582_Fall19_Project.pdf) for the project.
+
+  [Here](ProjectSubmission/IE 582 Project - Güz,İrsoy.html) is our approach for the project.
+  
+* * *
