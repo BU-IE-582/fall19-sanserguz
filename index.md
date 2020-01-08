@@ -37,6 +37,16 @@
 
 * * *
 
+# Homework 5
+
+  [Problem Description](IE582_Fall19_HW5.pdf) for the fifth Homework.
+
+  [Here](IE582-HW5-sanserguz.html) is my html file.
+
+  [Here](IE582-HW5-sanserguz.R) is my R file.
+
+* * *
+
 # Project
 
   [Description](ProjectSubmission/IE 582_Fall19_Project.pdf) for the project.
