@@ -1,11 +1,3 @@
-## _Welcome to my GitHub Page where the moon is made of blue cheese._
-
-## 僕のウェブサイトへようこそ！
-## ここで月はブルーチーズから作られたらしい。
-
-  Below, you can find my approaches for the assignments and term project for IE 582 Statistical Learning For Data Mining course I took from M. G. Baydoğan in the fall of 2019. 
-
-* * *
 
 # Homework 1
 
